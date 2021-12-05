@@ -1,0 +1,7 @@
+script.Parent.Touched:connect(function(hit) 
+ if hit.Parent:FindFirstChild('Humanoid') then 
+  hit.Parent.Head.CFrame = CFrame.new(-144.61 2.97 -173.34)
+ end
+end)
+game:GetService("MarketplaceService"):PromptGamePassPurchase(BARBA_MORENA)
+game:GetService("Double Power"):PromptGamePassPurchase(BARBA_MORENA)
