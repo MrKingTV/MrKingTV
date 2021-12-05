@@ -8,3 +8,4 @@ warn("Anti-Afk has Loaded")
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/naypramx/Simulator/Script/AnimeYedhee", true))()
 
+(KING)
